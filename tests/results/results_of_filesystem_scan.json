@@ -1,0 +1,11 @@
+{
+  "ArtifactName": "/path/to/repo",
+  "ArtifactType": "repository",
+  "Results": [
+    {
+      "Target": "Dockerfile",
+      "Class": "lang-pkgs",
+      "Type": "dockerfile"
+    }
+  ]
+}

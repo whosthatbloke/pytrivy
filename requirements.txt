@@ -1,0 +1,6 @@
+pytest
+pyexcel
+pyexcel-xls
+pyexcel-xlsx
+pyexcel-xlsxw
+typeguard

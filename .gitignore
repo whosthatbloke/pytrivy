@@ -1,0 +1,10 @@
+__pycache__
+.pytest_cache
+venv/
+dist/
+playground.py
+playground.txt
+playground.ipynb
+*.xlsx
+trivy.yaml
+!percona__percona-backup-mongodb:2.12.0_1771484831_report.xlsx
